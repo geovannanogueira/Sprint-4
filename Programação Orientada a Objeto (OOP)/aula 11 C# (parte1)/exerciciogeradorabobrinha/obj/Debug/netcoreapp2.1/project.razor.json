@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\47503773847\\Documents\\aula 11 C# (parte1)\\exerciciogeradorabobrinha\\exerciciogeradorabobrinha.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

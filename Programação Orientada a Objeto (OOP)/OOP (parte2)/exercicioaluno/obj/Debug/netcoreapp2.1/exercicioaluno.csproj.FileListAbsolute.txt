@@ -1,0 +1,11 @@
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\bin\Debug\netcoreapp2.1\exercicioaluno.deps.json
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\bin\Debug\netcoreapp2.1\exercicioaluno.runtimeconfig.json
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\bin\Debug\netcoreapp2.1\exercicioaluno.runtimeconfig.dev.json
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\bin\Debug\netcoreapp2.1\exercicioaluno.dll
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\bin\Debug\netcoreapp2.1\exercicioaluno.pdb
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.csprojAssemblyReference.cache
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.csproj.CoreCompileInputs.cache
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.AssemblyInfoInputs.cache
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.AssemblyInfo.cs
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.dll
+C:\Users\47503773847\Documents\OOP (parte2)\exercicioaluno\obj\Debug\netcoreapp2.1\exercicioaluno.pdb

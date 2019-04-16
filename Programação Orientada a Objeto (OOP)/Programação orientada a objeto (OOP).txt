@@ -1,0 +1,66 @@
+OOP - Programação Orientada a Objeto
+
+Allan Kay- criador
+
+Classe:
+exemplo- 
+
+*CARRO
+--------
+rodas
+volante
+motor
+chassi
+pedal
+janela
+porta
+------------------
+andar()
+ligar()
+desligar()
+freiar()
+
+
+*PESSOA
+----------
+altura
+peso
+idade
+gênero 
+cor cabelo
+cor dos olhos 
+-----------------
+respirar()
+andar()
+dormir()
+acordar()
+
+
+Termo funadamental 
+agrupar coisas que são relacionadas.
+descrever uma entidade pra depois ele dentro do sistema
+tudo que pode classificar 
+classe é genérica
+
+Uma classe modela um componente do sistema. Ela serve como base para criação de objetos, tal qual o projeto de uma casa serve para se criar várias casas iguais.
+Ela diz o que o bjeto terá como atributos      E também o que ele pode ou não fazer
+
+
+Objetos:
+Estes são componentes do programa que organizam dentro de si os códigos pertinentes.São compostos de propriedades (atributos) e métodos (funções).
+Atributos = características
+Métodos = ações do objeto
+
+
+
+void = quando não tem retorno
+
+
+
+get = pegar
+set = configurar, inserir os dados, gravar
+
+
+
+método = pode ter alguma lógica, algum critério pra poder ser acessado um atributo.
+atributo = acessado diretamente
